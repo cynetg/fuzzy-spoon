@@ -2,3 +2,5 @@ instructions file
 1.
 2.
 end of it.
+
+new instruction!
